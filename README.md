@@ -11,8 +11,5 @@ php composer.phar install
 php artisan serve
 ```
 
-### Home
+### Preview
 ![Picture would show here](/preview.png)
-
-### Contact-Us
-![Another picture would show here](/preview2.png)
