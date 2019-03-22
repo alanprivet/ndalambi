@@ -1,0 +1,21 @@
+
+.bg-essentials {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.bg-contain {
+	background-size: contain !important;
+}
+
+.bg-pos-top {
+	background-position: top !important;
+}
+
+.bg-primary {
+	background-color: #f9a602 !important;
+}
+
+
+
